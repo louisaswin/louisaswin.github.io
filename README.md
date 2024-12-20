@@ -5,8 +5,8 @@
 **Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce
 
 ## Contact Information
-**Phone Number:** 919-441-3173
-**Email:** ltswinto@ncsu.edu
+**Phone Number:** 919-441-3173     
+**Email:** ltswinto@ncsu.edu    
 **LinkedIn:**
 
 **About Me**
