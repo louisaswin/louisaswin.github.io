@@ -34,7 +34,7 @@ Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visu
 _Dashboard Player Card Page_
 
 ### Airport Data Dashboard
-[Dashboard]([Predicting_NFL_Outcomes_Based_on_Weather.pdf](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/))
+[Dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/)
 
 ![Dashboard Home Page](airport2.png)
 _Dashboard Player Card Page_
