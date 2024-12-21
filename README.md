@@ -30,7 +30,7 @@ University of North Carolina | Chapel Hill, NC
 
 Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
 
-![Dashboard Home Page](Player Metrics_all.png)
+![Dashboard Home Page](PlayerMetrics_all.png)
 _Dashboard Player Card Page_
 
 ### Airport Data Dashboard
