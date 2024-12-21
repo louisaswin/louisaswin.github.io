@@ -12,7 +12,8 @@
 **M.S. in Analytics** (May 2025)      
 Institute for Advanced Analytics | NC State University | Raleigh, NC
 
-**B.S. in Statistics and Analytics; B.A. in Psychology; Minor in Neuroscience** _with Highest Distinction_	(May 2023)    
+**B.S. in Statistics and Analytics; B.A. in Psychology;     
+Minor in Neuroscience** _with Highest Distinction_	(May 2023)    
 University of North Carolina | Chapel Hill, NC
 
 **About Me**
@@ -28,7 +29,7 @@ University of North Carolina | Chapel Hill, NC
 ### NCSU Women's Tennis Dashboard
 [Dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage)
 
-Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
+Designed and developed 
 
 ![Dashboard Home Page](PlayerMetrics_all.png)
 _Dashboard Player Card Page_
