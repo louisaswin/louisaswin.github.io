@@ -6,7 +6,7 @@
 ## Contact Information
 **Phone Number:** 919-441-3173     
 **Email:** ltswinto@ncsu.edu    
-**LinkedIn:** www.linkedin.com/in/louisa-swintosky
+**LinkedIn:** [https://www.linkedin.com/in/louisa-swintosky]
 
 ## Education
 **M.S. in Analytics** (May 2025)      
@@ -23,7 +23,6 @@ University of North Carolina | Chapel Hill, NC
 
 ## Projects
 
-
 **Current and Future Projects**
 
 ### NCSU Women's Tennis Dashboard
@@ -38,7 +37,7 @@ _Dashboard Player Card Page_
 [Dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/)
 
 ![Dashboard Home Page](airport2.png)
-_Dashboard Player Card Page_
+_Dashboard Geographic Overview Page_
 
 
 **Personal:**
