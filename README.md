@@ -11,10 +11,10 @@
 **LinkedIn:** www.linkedin.com/in/louisa-swintosky
 
 ## Education
-**M.S. in Analytics** (May 2025)
+**M.S. in Analytics** (May 2025)      
 Institute for Advanced Analytics | NC State University | Raleigh, NC
 
-**B.S. in Statistics and Analytics; B.A. in Psychology; Minor in Neuroscience **_with Highest Distinction_	(May 2023)
+**B.S. in Statistics and Analytics; B.A. in Psychology; Minor in Neuroscience ** _with Highest Distinction_	(May 2023)    
 University of North Carolina | Chapel Hill, NC
 
 **About Me**
