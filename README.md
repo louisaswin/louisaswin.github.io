@@ -25,6 +25,19 @@ University of North Carolina | Chapel Hill, NC
 
 **Current and Future Projects**
 
+### NCSU Women's Tennis Dashboard
+[Dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage)
+
+Designed and developed a dynamic Tableau dashboard for NCSU Women's Tennis, visualizing player statistics, match outcomes, and performance.
+
+![Dashboard Home Page](Dashboard.png)
+_Dashboard Homepage_
+
+### Airport Data Dashboard
+[Dashboard]([Predicting_NFL_Outcomes_Based_on_Weather.pdf](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/))
+
+
+
 **Personal:**
 - [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://github.com/louisaswin/movierepository-)
 - [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
