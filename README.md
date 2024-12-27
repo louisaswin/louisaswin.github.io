@@ -58,6 +58,6 @@ Co-led a 6-week research project investigating whether children overlook subtrac
 experimental tasks, resulting in acknowledgment in a [published paper](https://rdcu.be/d40QG).
 
 ![Figure](legotask.png)
-_Figure_
+_Figure from Page 4_
 
 
