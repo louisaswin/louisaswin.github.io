@@ -1,12 +1,6 @@
 <div style="text-align:center;">
   <img src="Headshot.jpeg" alt="Louisa Swintosky Headshot" style="max-width: 200px;">
   <p>M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University</p>
-  <p>[View My GitHub Profile](https://github.com/louisaswin) | [LinkedIn](https://www.linkedin.com/in/louisa-swintosky) | [Resume](Swintosky_Louisa.pdf)</p>
-</div>
-
-<div style="text-align:center;">
-  <img src="Headshot.jpeg" alt="Louisa Swintosky Headshot" style="max-width: 200px;">
-  <p>M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University</p>
   <p>
     <a href="https://github.com/louisaswin">View My GitHub Profile</a> | 
     <a href="https://www.linkedin.com/in/louisa-swintosky">LinkedIn</a> | 
