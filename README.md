@@ -1,5 +1,5 @@
 ## Louisa Swintosky
-![Dashboard Home Page](Headshot.png)
+![Dashboard Home Page](Headshot.jpeg)
 M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
 
 ## Technical Skills
