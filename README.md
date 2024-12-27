@@ -1,8 +1,4 @@
-[View My GitHub Profile](https://github.com/louisaswin)
-
-## Louisa Swintosky
-![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}      
-M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
+[View My GitHub Profile](https://github.com/louisaswin) | [LinkedIn](https://www.linkedin.com/in/louisa-swintosky) | [Resume](Swintosky_Louisa.pdf)
 
 <div style="text-align:center;">
   <h2>Louisa Swintosky</h2>
@@ -10,18 +6,14 @@ M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State Un
   <p>M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University</p>
 </div>
 
+## Contact Information
+**Phone Number:** 919-441-3173     
+**Email:** ltswinto@ncsu.edu    
 
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
 **Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce      
 **Certifications:** PCEP—Certified Entry Level Python Programmer
-
-## Contact Information
-**Phone Number:** 919-441-3173     
-**Email:** ltswinto@ncsu.edu    
-**LinkedIn:** https://www.linkedin.com/in/louisa-swintosky      
-
-## [Resume](Swintosky_Louisa.pdf)
 
 ## Education
 **M.S. in Analytics** (May 2025)      
@@ -58,4 +50,9 @@ Created an [RShiny dashboard](https://lswintosky.shinyapps.io/MediaRepository/) 
 
 ![Dashboard Home Page Filtered](movierepos1.png)
 _All Page filtered by Movies and Mystery Genre_
+
+### Research Assistant for Games & Society Lab at Uppsala University _(May 2021—July 2021)_
+Co-led a 6-week research project investigating whether children overlook subtractive solutions across 2
+experimental tasks, resulting in acknowledgment in a [published paper](https://rdcu.be/d40QG).
+
 
