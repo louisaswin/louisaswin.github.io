@@ -1,7 +1,4 @@
----
-layout: default
-title: "Louisa Swintosky Portfolio"
----
+Welcome to my portfolio!
 
 ## Louisa Swintosky
 ![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}      
