@@ -1,4 +1,6 @@
-# Portfolio
+## Louisa Swintosky
+![Dashboard Home Page](Headshot.png)
+M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
 
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
