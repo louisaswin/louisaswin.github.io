@@ -1,5 +1,5 @@
 ## Louisa Swintosky
-![Dashboard Home Page](Headshot.jpeg)
+![Louisa Swintosky Headshot](Headshot.jpeg)      
 M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
 
 ## Technical Skills
@@ -33,20 +33,20 @@ University of North Carolina | Chapel Hill, NC
 
 Designed and deployed a [Tableau dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage) to visualize metrics for the NCSU Women’s Tennis Team.
 
-![Dashboard Home Page](PlayerMetrics_all.png)
+![Dashboard Player Metrics Page](PlayerMetrics_all.png)
 _Player Metrics Page_
 
 ### Airport Data Dashboard _(July 2024)_
 
 Developed an interactive [RShiny dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/) analyzing U.S. airline and airport flight data for the top 10 airlines and airports.
 
-![Dashboard Home Page](airport2.png)
+![Dashboard Geographic Overview Page](airport2.png)
 _Geographic Overview Page_
 
 ### Movie and TV Show Repository: A Collection of My Cinematic Favorites _(November 2023)_
 
 Created an [RShiny dashboard](https://lswintosky.shinyapps.io/MediaRepository/) to create a repository of my favorite movies and TV shows as a way to learn RShiny and gain experience working with APIs.
 
-![Dashboard Home Page](movierepos1.png)
+![Dashboard Home Page Filtered](movierepos1.png)
 _All Page filtered by Movies and Mystery Genre_
 
