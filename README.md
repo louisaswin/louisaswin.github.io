@@ -56,6 +56,7 @@ _All Page filtered by Movies and Mystery Genre_
 ### Research Assistant for Games & Society Lab at Uppsala University _(May 2021—July 2021)_
 Co-led a 6-week research project investigating whether children overlook subtractive solutions across 2
 experimental tasks, resulting in acknowledgment in a [published paper](https://rdcu.be/d40QG).
+
 ![Figure](legotask.png)
 _Figure_
 
