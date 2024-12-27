@@ -41,9 +41,14 @@ _Dashboard Geographic Overview Page_
 
 Created an RShiny dashboard to create a repository of my favorite movies and TV shows as a way to learn RShiny and work with APIs.
 
+![Dashboard Home Page](movierepos.png)
+_All Page filtered by Movies and Mystery Genre_
+
 ### [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project) _(September 2023)_
 
 
 
 **Work:**
 - [Groundwater Project](https://github.com/louisaswin/groundwater)
+
+## [Resume](Swintosky_Louisa.pdf)
