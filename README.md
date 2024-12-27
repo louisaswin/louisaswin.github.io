@@ -1,4 +1,4 @@
-Welcome to my portfolio!
+[View My GitHub Profile](https://github.com/louisaswin)
 
 ## Louisa Swintosky
 ![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}      
