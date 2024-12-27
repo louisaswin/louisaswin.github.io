@@ -5,10 +5,11 @@
 M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
 
 <div style="text-align:center;">
-  ## Louisa Swintosky
-  ![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}
-  M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
+  <h2>Louisa Swintosky</h2>
+  <img src="Headshot.jpeg" alt="Louisa Swintosky Headshot" style="max-width: 200px;">
+  <p>M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University</p>
 </div>
+
 
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
