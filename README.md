@@ -1,7 +1,6 @@
-[View My GitHub Profile](https://github.com/louisaswin) | [LinkedIn](https://www.linkedin.com/in/louisa-swintosky) | [Resume](Swintosky_Louisa.pdf)
+[View My GitHub Profile](https://github.com/louisaswin) \| [LinkedIn](https://www.linkedin.com/in/louisa-swintosky) \| [Resume](Swintosky_Louisa.pdf)
 
 <div style="text-align:center;">
-  <h2>Louisa Swintosky</h2>
   <img src="Headshot.jpeg" alt="Louisa Swintosky Headshot" style="max-width: 200px;">
   <p>M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University</p>
 </div>
