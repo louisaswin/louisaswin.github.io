@@ -23,26 +23,31 @@ University of North Carolina | Chapel Hill, NC
 
 ## Projects
 
-**Current and Future Projects**
+### [NCSU Women's Tennis Dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage)
+_October 2024_
 
-### NCSU Women's Tennis Dashboard
-[Dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage)
-
-Designed and developed 
+Designed and developed a dashboard in Tableau to visualize NCSU Women's Tennis Team's metric.
 
 ![Dashboard Home Page](PlayerMetrics_all.png)
 _Dashboard Player Card Page_
 
-### Airport Data Dashboard
-[Dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/)
+### [Airport Data Dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/)
+_July 2024_
+
+Developed an interactive RShiny dashboard analyzing U.S. airline and airport flight data for the top 10 airlines and airports.
 
 ![Dashboard Home Page](airport2.png)
 _Dashboard Geographic Overview Page_
 
+### [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://lswintosky.shinyapps.io/MediaRepository/)
+_November 2023_
 
-**Personal:**
-- [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://github.com/louisaswin/movierepository-)
-- [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
+Created an RShiny dashboard to display my favorite movies and TV shows as a way to learn RShiny and work with APIs.
+
+### [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project)
+_September 2023_
+
+
 
 **Work:**
 - [Groundwater Project](https://github.com/louisaswin/groundwater)
