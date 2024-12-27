@@ -30,7 +30,7 @@ University of North Carolina | Chapel Hill, NC
 Designed and deployed a [Tableau dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage) to visualize metrics for the NCSU Women’s Tennis Team.
 
 ![Dashboard Home Page](PlayerMetrics_all.png)
-_Player Card Page_
+_Player Metrics Page_
 
 ### Airport Data Dashboard _(July 2024)_
 
