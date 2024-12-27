@@ -4,6 +4,12 @@
 ![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}      
 M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
 
+<div style="text-align:center;">
+  ## Louisa Swintosky
+  ![Louisa Swintosky Headshot](Headshot.jpeg){: style="max-width: 200px;"}
+  M.S. Candidate in Analytics at the Institute for Advanced Analytics, NC State University
+</div>
+
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
 **Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce      
