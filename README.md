@@ -6,8 +6,8 @@
 ## Contact Information
 **Phone Number:** 919-441-3173     
 **Email:** ltswinto@ncsu.edu    
-**LinkedIn:** https://www.linkedin.com/in/louisa-swintosky
-[Resume](Swintosky_Louisa.pdf)
+**LinkedIn:** https://www.linkedin.com/in/louisa-swintosky      
+**[Resume]**(Swintosky_Louisa.pdf)
 
 ## Education
 **M.S. in Analytics** (May 2025)      
