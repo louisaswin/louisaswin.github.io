@@ -25,8 +25,8 @@ Institute for Advanced Analytics | NC State University | Raleigh, NC
 Minor in Neuroscience** _with Highest Distinction_	(May 2023)    
 University of North Carolina | Chapel Hill, NC
 
-**About Me**
-- I’m Louisa, a data enthusiast with a background in statistics and psychology.
+## About Me
+- I’m a data enthusiast with a background in statistics and psychology.
 - I'm passionate about data analytics, machine learning, and data ethics, driven by my curiosity for uncovering trends and insights.
 - Beyond data, I'm an avid reader, a fan of games, and a movie lover. I also enjoy listening to podcasts, scuba diving, and traveling. 
 
