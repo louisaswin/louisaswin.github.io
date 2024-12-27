@@ -41,7 +41,7 @@ _Dashboard Geographic Overview Page_
 
 ### Movie and TV Show Repository: A Collection of My Cinematic Favorites _(November 2023)_
 
-Created an [RShiny dashboard](https://lswintosky.shinyapps.io/MediaRepository/) to create a repository of my favorite movies and TV shows as a way to learn RShiny and work with APIs.
+Created an [RShiny dashboard](https://lswintosky.shinyapps.io/MediaRepository/) to create a repository of my favorite movies and TV shows as a way to learn RShiny and gain experience working with APIs.
 
 ![Dashboard Home Page](movierepos1.png)
 _All Page filtered by Movies and Mystery Genre_
