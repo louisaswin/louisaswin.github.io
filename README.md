@@ -1,6 +1,6 @@
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
-**Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce
+**Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce      
 **Certifications:** PCEP—Certified Entry Level Python Programmer
 
 ## Contact Information
