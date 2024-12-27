@@ -6,7 +6,8 @@
 ## Contact Information
 **Phone Number:** 919-441-3173     
 **Email:** ltswinto@ncsu.edu    
-**LinkedIn:** (https://www.linkedin.com/in/louisa-swintosky)
+**LinkedIn:** https://www.linkedin.com/in/louisa-swintosky
+[Resume](Swintosky_Louisa.pdf)
 
 ## Education
 **M.S. in Analytics** (May 2025)      
@@ -44,11 +45,3 @@ Created an RShiny dashboard to create a repository of my favorite movies and TV 
 ![Dashboard Home Page](movierepos1.png)
 _All Page filtered by Movies and Mystery Genre_
 
-### [Wordle Analysis: Exploring Strategies and Optimization](https://github.com/louisaswin/Wordle-Project) _(September 2023)_
-
-
-
-**Work:**
-- [Groundwater Project](https://github.com/louisaswin/groundwater)
-
-## [Resume](Swintosky_Louisa.pdf)
