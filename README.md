@@ -24,23 +24,23 @@ University of North Carolina | Chapel Hill, NC
 
 ## Projects
 
-### [NCSU Women's Tennis Dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage) _(October 2024)_
+### NCSU Women's Tennis Dashboard _(October 2024)_
 
-Designed and deployed a dashboard in Tableau to visualize NCSU Women's Tennis Team's metric.
+Designed and deployed a [dashboard](https://public.tableau.com/app/profile/louisa.swintosky/viz/NCStateWomensTennisMetrics-Orange5/HomePage) in Tableau to visualize NCSU Women's Tennis Team's metric.
 
 ![Dashboard Home Page](PlayerMetrics_all.png)
 _Dashboard Player Card Page_
 
-### [Airport Data Dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/) _(July 2024)_
+### Airport Data Dashboard _(July 2024)_
 
-Developed an interactive RShiny dashboard analyzing U.S. airline and airport flight data for the top 10 airlines and airports.
+Developed an interactive [RShiny dashboard](https://lswintosky.shinyapps.io/Airport_Data_Dashboard/) analyzing U.S. airline and airport flight data for the top 10 airlines and airports.
 
 ![Dashboard Home Page](airport2.png)
 _Dashboard Geographic Overview Page_
 
-### [Movie and TV Show Repository: A Collection of My Cinematic Favorites](https://lswintosky.shinyapps.io/MediaRepository/) _(November 2023)_
+### Movie and TV Show Repository: A Collection of My Cinematic Favorites _(November 2023)_
 
-Created an RShiny dashboard to create a repository of my favorite movies and TV shows as a way to learn RShiny and work with APIs.
+Created an [RShiny dashboard](https://lswintosky.shinyapps.io/MediaRepository/) to create a repository of my favorite movies and TV shows as a way to learn RShiny and work with APIs.
 
 ![Dashboard Home Page](movierepos1.png)
 _All Page filtered by Movies and Mystery Genre_
