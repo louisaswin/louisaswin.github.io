@@ -10,12 +10,11 @@
 
 ## Contact Information
 **Phone Number:** 919-441-3173     
-**Email:** ltswinto@ncsu.edu    
+**Email:** ltswintosky@gmail.com  
 
 ## Technical Skills
 **Programming:** Python, R, SQL, VBA    
 **Software:** Excel, Tableau, SPSS, Arena Simulation Software, Salesforce      
-**Certifications:** PCEP—Certified Entry Level Python Programmer
 
 ## Education
 **M.S. in Analytics** (May 2025)      
