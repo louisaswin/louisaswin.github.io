@@ -4,7 +4,7 @@
   <p>
     <a href="https://github.com/louisaswin">GitHub Profile</a> | 
     <a href="https://www.linkedin.com/in/louisa-swintosky">LinkedIn</a> | 
-    <a href="/Swintosky_Louisa.pdf">Resume</a>
+    <a href="/Swintosky_Louisa_2026.pdf">Resume</a>
   </p>
 </div>
 
